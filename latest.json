@@ -3,5 +3,10 @@
     "jar": "https://github.com/Freonik/Forgebound-releases/releases/download/guard-v1.3.8-build.13/ForgeboundGuard.jar",
     "tag": "guard-v1.3.8-build.13",
     "version": "1.3.8"
+  },
+  "ForgeboundTeams": {
+    "jar": "https://github.com/Freonik/Forgebound-releases/releases/download/teams-v1.1.3-build.6/ForgeboundTeams.jar",
+    "tag": "teams-v1.1.3-build.6",
+    "version": "1.1.3"
   }
 }
