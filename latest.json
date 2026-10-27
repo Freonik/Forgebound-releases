@@ -1,4 +1,11 @@
 {
+  "Forgebound": {
+    "jar": "https://github.com/Freonik/Forgebound-releases/releases/download/forgebound-v2.21.3-build.112/Forgebound.jar",
+    "pack": "https://github.com/Freonik/Forgebound-releases/releases/download/forgebound-v2.21.3-build.112/Forgebound-pack.zip",
+    "pack_sha1": "0d0886a9bb89067813364ac14c020e098bbd1971",
+    "tag": "forgebound-v2.21.3-build.112",
+    "version": "2.21.3"
+  },
   "ForgeboundGuard": {
     "jar": "https://github.com/Freonik/Forgebound-releases/releases/download/guard-v1.3.8-build.13/ForgeboundGuard.jar",
     "tag": "guard-v1.3.8-build.13",
