@@ -3,7 +3,7 @@
 <p align="center"><b>Legendary weapons that exist only once. Forge them, defend them, don't let anyone take them.</b><br>
 Paper 1.21.11 · Java 21</p>
 
-<p align="center"><b>📖 <a href="https://freonik.github.io/Forgebound-releases/">Wiki (CZ / EN)</a></b></p>
+<p align="center"><b>📖 <a href="https://freonik.github.io/Forgebound/">Wiki (CZ / EN)</a></b></p>
 
 This repository holds the **releases** of the Forgebound plugins. Download them from **[Releases](../../releases)**.
 
