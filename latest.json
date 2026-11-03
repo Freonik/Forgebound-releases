@@ -12,8 +12,8 @@
     "version": "1.3.8"
   },
   "ForgeboundTeams": {
-    "jar": "https://github.com/Freonik/Forgebound-releases/releases/download/teams-v1.2.2-build.9/ForgeboundTeams.jar",
-    "tag": "teams-v1.2.2-build.9",
-    "version": "1.2.2"
+    "jar": "https://github.com/Freonik/Forgebound-releases/releases/download/teams-v1.2.3-build.10/ForgeboundTeams.jar",
+    "tag": "teams-v1.2.3-build.10",
+    "version": "1.2.3"
   }
 }
